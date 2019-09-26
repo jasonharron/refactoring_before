@@ -98,7 +98,7 @@ Let's uncomment the createWall function add walls without repeating our code.
         color: '#222222',
         align: 'center'
     });
-    text.setDepth(-10);
+    //text.setDepth(-10);
 }
 
 /*
